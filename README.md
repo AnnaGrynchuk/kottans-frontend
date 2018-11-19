@@ -32,3 +32,11 @@ This course once again has shown us how powerful Git is for collaboration with o
 ![](task_html_css_intro/css.jpg)
 
 In this course I've reiterated the basics of HTML&CSS. Combination of different сontext and adjacent СSS selectors was interesting and new for me.
+
+## Responsive Web Design
+------
+
+![](task_responsive_web_design/resp_web.jpg)
+![](task_responsive_web_design/flex_froggy.jpg)
+
+This course has reminded us how important is every detail in web design and also  has shown how we can manage layout.  Flex box is such a powerful tool for responsive layout. Also I've known some new information about responsive images.

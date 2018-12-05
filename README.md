@@ -40,3 +40,11 @@ In this course I've reiterated the basics of HTML&CSS. Combination of different 
 ![](task_responsive_web_design/flex_froggy.jpg)
 
 This course has reminded us how important is every detail in web design and also  has shown how we can manage layout.  Flex box is such a powerful tool for responsive layout. Also I've known some new information about responsive images.
+
+## JS Basics
+------
+
+![](task_js_basics/js_intro.jpg)
+![](task_js_basics/freecodecamp_js.jpg)
+
+It was very useful and informative course for me. On freecodecamp I really was confused sometimes because I had no idea how it should work. Thanks to this course I've known new methods of array and string and understood how they can work together.

@@ -46,5 +46,14 @@ This course has reminded us how important is every detail in web design and also
 
 ![](task_js_basics/js_intro.jpg)
 ![](task_js_basics/freecodecamp_js.jpg)
+![](task_js_basics/egghead_js.jpg)
 
 It was very useful and informative course for me. On freecodecamp I really was confused sometimes because I had no idea how it should work. Thanks to this course I've known new methods of array and string and understood how they can work together.
+
+## DOM
+------
+
+![](task_js_dom/dom_udacity.jpg)
+![](task_js_dom/freecodecamp_js2.jpg)
+
+This course was a little difficult for me, I used hints on freecodecamp to complete tasks. Udacity course was very interesting and seemed quite simple, but when I start doing practical task everything has changed and I had a lot of fun :)

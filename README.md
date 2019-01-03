@@ -56,4 +56,8 @@ It was very useful and informative course for me. On freecodecamp I really was c
 ![](task_js_dom/dom_udacity.jpg)
 ![](task_js_dom/freecodecamp_js2.jpg)
 
+[Code base](https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/AnnGrynchuk/js_dom) | Reviewed and approved by @yevhenorlov
+
 This course was a little difficult for me, I used hints on freecodecamp to complete tasks. Udacity course was very interesting and seemed quite simple, but when I start doing practical task everything has changed and I had a lot of fun :)
+
+

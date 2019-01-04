@@ -60,4 +60,17 @@ It was very useful and informative course for me. On freecodecamp I really was c
 
 This course was a little difficult for me, I used hints on freecodecamp to complete tasks. Udacity course was very interesting and seemed quite simple, but when I start doing practical task everything has changed and I had a lot of fun :)
 
+## A Tiny JS World
+------
 
+[Code base](https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/AnnGrynchuk/js_pre_oop) | Reviewed and approved by @OleksiyRudenko
+
+This practical task was very helpful for me, I've known how properly reach the values of the objects and manipulate them.
+
+## Object Oriented JS
+------
+
+![](task_js_oop/oop_udacity.jpg)
+![](task_js_oop/codewars.jpg)
+
+Udacity course about OOP was really entangled for me because much time was spent focusing on mistakes and for beginner it's hard to understand how you should write correct code. There was a lot of new and useful information, however. I think I just need more practice and time to handle this)

@@ -74,3 +74,14 @@ This practical task was very helpful for me, I've known how properly reach the v
 ![](task_js_oop/codewars.jpg)
 
 Udacity course about OOP was really entangled for me because much time was spent focusing on mistakes and for beginner it's hard to understand how you should write correct code. There was a lot of new and useful information, however. I think I just need more practice and time to handle this)
+
+
+
+## OOP Exercise
+------
+[Code base](https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/AnnGrynchuk/oop_exercise) | Reviewed and approved by @OleksiyRudenko
+
+## Memory Pair Game
+------
+[Demo](https://annagrynchuk.github.io/kottans-frontend/memory_pair_game/index.html)|
+[Code base](https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/AnnGrynchuk/memory_pair_game) | Reviewed and approved by @AMashoshyna

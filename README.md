@@ -75,13 +75,19 @@ This practical task was very helpful for me, I've known how properly reach the v
 
 Udacity course about OOP was really entangled for me because much time was spent focusing on mistakes and for beginner it's hard to understand how you should write correct code. There was a lot of new and useful information, however. I think I just need more practice and time to handle this)
 
+[Code base](https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/AnnGrynchuk/js-oop) | Reviewed and approved by @OleksiyRudenko
 
+This subtask was really difficult to me and many times I was confused because I didn't know how to start and how to combine all that) 
 
 ## OOP Exercise
 ------
 [Code base](https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/AnnGrynchuk/oop_exercise) | Reviewed and approved by @OleksiyRudenko
 
+It was one of the most useful and interesting task for me, it helped me to understand how I can use different OOP methods on practice by using a simple example.
+
 ## Memory Pair Game
 ------
 [Demo](https://annagrynchuk.github.io/kottans-frontend/memory_pair_game/index.html)|
 [Code base](https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/AnnGrynchuk/memory_pair_game) | Reviewed and approved by @AMashoshyna
+
+I can't believe that I create game by myself. It's real cool practice!

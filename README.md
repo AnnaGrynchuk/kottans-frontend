@@ -91,3 +91,10 @@ It was one of the most useful and interesting task for me, it helped me to under
 [Code base](https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/AnnGrynchuk/memory_pair_game) | Reviewed and approved by @AMashoshyna
 
 I can't believe that I create game by myself. It's real cool practice!
+
+## Friends App
+------
+[Demo](https://annagrynchuk.github.io/Friends-App/index.html)|
+[Code base](https://github.com/AnnaGrynchuk/Friends-App) | Reviewed and approved by @zonzujiro
+
+Friends App was quite exciting and at the same time difficult task for me, because I've never used API for getting data for my website before. 
